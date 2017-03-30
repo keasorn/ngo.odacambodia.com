@@ -1,0 +1,377 @@
+.fontLarge {
+    font: 14px Verdana, Tahoma !important;
+}
+
+.tdBox {
+    padding: 5px !important;
+    border: 1px solid #C0C0C0 !important;
+}
+
+.fontBig {
+    font: 12px Verdana, Tahoma !important;
+}
+
+.fontNormal, tr td {
+    font: 11px Verdana, Tahoma !important;
+}
+
+.fontNormalBlue {
+    font-style: normal !important;
+    font-variant: normal !important;
+    font-weight: normal !important;
+    font-size: 11px !important;
+    font-family: Verdana !important;
+    color: #114DFF
+}
+
+.fontNormal10 {
+    font: 10px Verdana, Tahoma !important;
+}
+
+.fontSmall {
+    font: 10px Arial, Tahoma !important;
+}
+
+.fontTahomaSmall {
+    font-style: normal !important;
+    font-variant: normal !important;
+    font-weight: normal !important;
+    font-size: 11px !important;
+    font-family: Tahoma
+}
+
+.fontTiny {
+    font: 9px Verdana, Tahoma !important;
+}
+
+.font7pt {
+    font-family: Tahoma, Verdana !important;
+    font-size: 7pt !important;
+}
+
+body {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    font: 12px/1.5em Verdana, Tahoma !important;
+    background: #fff !important;
+}
+
+.fontLarge {
+    font-size: 12pt !important;
+    font-family: Verdana
+}
+
+.BoldBlue {
+    color: #0033CC !important;
+    font-weight: bold
+}
+
+.BoldGreen {
+    color: #008000 !important;
+    font-weight: bold
+}
+
+.TextBoxDataE {
+    text-align: right !important;
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+
+.ComboE {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+
+.DataE {
+    color: #000000 !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+    font-weight: normal !important;
+    font-size: 12px !important;
+    font-family: Arial
+}
+
+.TextBoxNumber {
+    font: 10px Verdana, Tahoma !important;
+    text-align: right
+}
+
+.TextBoxNumberSmall {
+    font: 10px Verdana, Tahoma !important;
+    text-align: right
+}
+
+.TextBoxDisb {
+    font: 10px Verdana, Tahoma !important;
+    text-align: right
+}
+
+.TableDataE {
+    font: 12px Courier New !important;
+    color: #000000
+}
+
+.LimonS1 {
+    font-family: Limon S1 !important;
+    font-size: 18pt !important;
+    line-height: 0.80
+}
+
+A:link {
+    BACKGROUND: none transparent scroll repeat 0% 0% !important;
+    COLOR: BLUE !important;
+    TEXT-DECORATION: none
+}
+
+A:visited {
+    BACKGROUND: none transparent scroll repeat 0% 0% !important;
+    color: blue !important;
+    TEXT-DECORATION: none
+}
+
+A:hover {
+    BACKGROUND: none !important;
+    TEXT-DECORATION: underline !important;
+    color: #FF0000
+}
+
+.textBoxCenter {
+    font-style: normal !important;
+    font-variant: normal !important;
+    font-weight: normal !important;
+    font-size: 12px !important;
+    font-family: Verdana, Tahoma !important;
+    text-align: center
+}
+
+.textBoxLimon {
+
+    font-family: Limon S1 !important;
+    font-size: 18pt !important;
+    word-spacing: 0 !important;
+    line-height: 0.90 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0
+}
+
+.DataEntry {
+
+}
+
+.TableCaptionE {
+    font-family: Tahoma !important;
+    color: #000080
+}
+
+.SmallButton {
+    font: 12px Verdana, Tahoma !important;
+    border: 1px solid #0066CC !important;
+    width: 50px !important;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    background-color: #ECE9D8
+}
+
+.TableProject {
+    border: 1px solid #000000 !important;
+    background-color: #FFFF66
+}
+
+.LeftPaneMenu {
+    font-weight: bold !important;
+    background-color: #E0FFB3 !important;
+    color: #008000
+}
+
+label {
+    cursor: pointer !important;
+    font: 11px Verdana, Tahoma !important;
+}
+
+.cursorHand {
+    cursor: pointer !important;
+}
+
+div.break {
+    page-break-before: always
+}
+
+.sortAZ {
+    background-position: right center !important;
+    background-repeat: no-repeat !important;
+    background-image: url('sortAZ.gif') !important;
+    padding-right: 15px
+}
+
+.sortZA {
+    background-position: right center !important;
+    background-repeat: no-repeat !important;
+    background-image: url('sortZA.gif') !important;
+    padding-right: 15px
+}
+
+.borderZero {
+    border-width: 0 !important;
+}
+
+.bottom-dashed {
+    border-bottom-style: dashed !important;
+    border-bottom-width: 1px !important;
+    border-bottom-color: #999999
+}
+
+.left-dashed {
+    border-left-width: 1px !important;
+    border-left-style: dashed !important;
+    border-left-color: #999999 !important;
+}
+
+.actived, .actived a font {
+    background-color: #3366FF !important;
+    color: #ffffff !important;
+}
+
+.activeLeft, .activeLeft a font, .activeLeft a span, .activeLeft span a {
+    font-weight: bold;
+    background-color: #E0FFB3;
+    color: #008000;
+}
+
+legend {
+    font-size: 12px !important;
+    display: block !important;
+    padding: 0 !important;
+    margin-bottom: 0px !important;
+    line-height: inherit !important;
+    color: #333 !important;
+    border: none !important;
+    width: auto !important;
+    height: 20px !important;
+}
+
+fieldset {
+    min-width: 0 !important;
+    padding: 6px !important;
+    margin: 0px 5px !important;
+    /* border: 0 !important; */
+    border: solid 1px #000 !important;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.projectStatus1 {
+    background-color: white !important;
+}
+
+.projectStatus2 {
+    background-color: #FF9933 !important;
+}
+
+.projectStatus3 {
+    background-color: #FFFFB3 !important;
+}
+
+.projectStatus4 {
+    background-color: #99FF99 !important;
+}
+
+.projectStatus5 {
+    background-color: #CC99FF !important;
+}
+
+.input-group-addon {
+    border: none !important;
+    float: left !important;
+}
+
+.text-left {
+    float: left !important;
+}
+
+.red {
+    color: red !important;
+}
+
+.fontNormal, tr td {
+    margin: 1px 0px !important;
+}
+
+.margin-auto {
+    margin: auto !important;
+}
+
+.blue {
+    color: blue !important;
+}
+
+.margin-0 {
+    margin: 0px !important;
+}
+
+.pagination > li > a, .pagination > li > span {
+    margin: 0px !important;
+    padding: 2px 10px !important;
+}
+
+.pagination {
+    margin: 1px !important;
+}
+
+form hr {
+    color: #008000 !important;
+}
+
+.tooltip div {
+    background: #000000;
+    color: white;
+}
+
+input[type="radio"] {
+    margin: 0px 3px 0px 5px !important;
+    border-collapse: collapse;
+}
+
+.fontNormal hr {
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(0, 102, 255);
+    border-right-color: rgb(0, 102, 255);
+    border-bottom-color: rgb(0, 102, 255);
+    border-left-color: rgb(0, 102, 255);
+    background-color: rgb(0, 102, 255);
+    border-bottom-width: 0px;
+}
+hr {
+    display: block;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.table-fixed tbody {
+    height: 150px;
+    overflow-y: auto;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+    display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr> th {
+    float: left;
+    border-bottom-width: 0;
+}
+
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
